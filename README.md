@@ -1,0 +1,1 @@
+Used john the ripper in a safe,ethical enivronment-kali linux, to crack passwords of zipped files and read the contents inside the file. Used wordlists like rockyou.txt to crack the passwords of the files, and also created my own wordlist. 
